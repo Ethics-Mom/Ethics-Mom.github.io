@@ -39,6 +39,7 @@ Yeah, but API is already a coding thing so AOI it is\
 It sure is! Corpulence Index (CI) is like BMI but you divide mass by the cube of the height rather than the square of the height.
 This does lend a bit more credance to using CI over BMI, but AOI as a square root of CI does have its advantages that I will explore in further posts.
 ### I calculated my AOI what does it mean
+
 | AOI Range | Category |
 |-------|--------|
 | 14- | Underweight |
