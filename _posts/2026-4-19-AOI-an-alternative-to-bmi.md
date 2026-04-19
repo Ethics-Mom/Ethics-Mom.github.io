@@ -7,7 +7,7 @@ However I figured it would be nice to take a stab at it, The following will be i
 BMI is calculated as follows:\
 $$ \text{BMI}=\frac{M}{H^{2}} $$\
 With M as your weight in kg and H as your height in m
-### AOI
+### AOI derivation
 the basis for AOI will be in the body's aspect ratio.
 I decided to go with aspect ratio because it was a dimensionless quantity that i thought well described someone's stature.
 The aspect ratio being someones width divided by someones height.
@@ -17,9 +17,22 @@ $$ a=\frac{H}{2} $$\
 $$ b=\frac{\text{Width}}{2} $$\
 and aspect ratio R is\
 $$ R=\frac{b}{a} $$\
-!(Diagram of the speroid and its axes)[/Assets/Spheroid.png]\
+![spheroid diagram with axes](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Spheroid.png?raw=true)
 The Volume of the spheroid is given by:\
 $$ V=\frac{4}{3}\pi ab^{2} $$\
 We can get rid of b via substitution and multiply by density \
-$$ \rho=985\frac{kg}{m^{3}} $$
+$$ \rho=985\frac{kg}{m^{3}} $$\
+$$ M=\frac{1}{6}\pi\rho H^{3}R^{2} $$\
+We may also replace a with H/2\
 $$ M=\frac{4}{3}\pi\rho a^{3}R^{2} $$\
+We can finally solve for the aspect ratio from height and weight\
+$$ R=\sqrt{\frac{6}{\pi\rho}}*\sqrt{\frac{W}{H^{3}}} $$\
+$$ R=0.0440334358089\sqrt{\frac{W}{H^{3}}} $$\
+### AOI 
+I prefer to multiply the aspect ratio by 100 so it can be read as a percentage\
+R=0.15 would become AOI = 15 which can be interpreted as this person is 15% as wide as they are tall.\
+In m and kg AOI is:\
+$$ R=4.40334358089\sqrt{\frac{W}{H^{3}}} $$\
+And in lb and in AOI is:\
+$$ R=732.597578731\sqrt{\frac{W}{H^{3}}} $$\
+### Discussion
