@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hopefully I'll have a set of links going to posts or something like that
+The worlds first blog type website
+Im like soo cool
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+anyways
+Phyiscs, Math, Medicine, Esotericism
+This is a place of thoughts
