@@ -5,7 +5,7 @@ However I figured it would be nice to take a stab at it, The following will be i
 
 ### BMI
 BMI is calculated as follows:\
-$$ \text{BMI}=\frac{M}{H^{2}} $$
+$$ \text{BMI}=\frac{M}{H^{2}} $$\
 With M as your weight in kg and H as your height in m
 ### AOI
 the basis for AOI will be in the body's aspect ratio.
@@ -16,7 +16,10 @@ In order to do this I assumed the body to be a spheroid with axes a,b,b where\
 $$ a=\frac{H}{2} $$\
 $$ b=\frac{\text{Width}}{2} $$\
 and aspect ratio R is\
-$$ r=\frac{b}{a} $$\
-!(Diagram of the speroid and its axes)[/Assets/Spheroid.png]
+$$ R=\frac{b}{a} $$\
+!(Diagram of the speroid and its axes)[/Assets/Spheroid.png]\
 The Volume of the spheroid is given by:\
 $$ V=\frac{4}{3}\pi ab^{2} $$\
+We can get rid of b via substitution and multiply by density \
+$$ \rho=985\frac{kg}{m^{3}} $$
+$$ M=\frac{4}{3}\pi\rho a^{3}R^{2} $$\
