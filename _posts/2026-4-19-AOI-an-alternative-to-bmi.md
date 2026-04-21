@@ -1,3 +1,11 @@
+---
+layout: post
+title: "AOI, a BMI alternative based in dimensional analysis"
+date: 2026-4-21
+---
+
+
+
 # AOI, a BMI alternative based in dimensional analysis
 I've been dissapointed with BMI, and mainly its failings with short and tall people.
 In general many physicians are moving away from relying on it so heavily for a myriad of reasons.
@@ -27,14 +35,17 @@ We may also replace a with H/2\
 $$ M=\frac{4}{3}\pi\rho a^{3}R^{2} $$\
 We can finally solve for the aspect ratio from height and weight\
 $$ R=\sqrt{\frac{6}{\pi\rho}}*\sqrt{\frac{W}{H^{3}}} $$\
-$$ R=0.0440334358089\sqrt{\frac{W}{H^{3}}} $$\
+$$ R=0.0440334358089\sqrt{\frac{W}{H^{3}}} $$
+
 ## AOI 
 I prefer to multiply the aspect ratio by 100 so it can be read as a percentage\
 $$ AOI=4.40334358089\sqrt{\frac{W}{H^{3}}} $$\
-R=0.15 would become AOI = 15 which can be interpreted as this person is 15% as wide as they are tall.\
+R=0.15 would become AOI = 15 which can be interpreted as this person is 15% as wide as they are tall.
+
 ## Discussion
 ### Shouldnt It be Aspect Prolateness Index?
-Yeah, but API is already a coding thing so AOI it is\
+Yeah, but API is already a coding thing so AOI it is
+
 ### Wait, that there in the Sqrt, that's CI!
 It sure is! Corpulence Index (CI) is like BMI but you divide mass by the cube of the height rather than the square of the height.
 This does lend a bit more credance to using CI over BMI, but AOI as a square root of CI does have its advantages that I will explore in further posts.
