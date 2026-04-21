@@ -52,13 +52,14 @@ This does lend a bit more credance to using CI over BMI, but AOI as a square roo
 ### I calculated my AOI what does it mean
 
 | AOI Range | Category |
-|-------|--------|
+|---|---|
 | 14- | Underweight |
 | 15-16 | Healthy/Lean |
 | 17-18 | Overweight |
 | 19-20 | Obesity Class 1 |
 | 21-22 | Obesity Class 2 |
 | 23+ | Obesity Class 3 |
+
 ### American Units
 $$ AOI=732.597578731\sqrt{\frac{W}{H^{3}}} $$\
 for lb and in.
