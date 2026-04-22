@@ -1,3 +1,9 @@
+---
+layout: post
+title: AOI, a BMI alternative based in dimensional analysis
+date: 2026-04-21
+---
+
 # AOI, a BMI alternative based in dimensional analysis
 I have recently grown more disappointed in BMI. And it's not just because medical professionals have been moving away from using it, there is something inherently busted about the system.\
 So, I took it upon myself to try and find a fix to it, and the system I have come up with is the Aspect Oblateness Index, or AOI.
