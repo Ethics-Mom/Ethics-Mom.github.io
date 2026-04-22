@@ -68,13 +68,11 @@ AOI as a square root of CI does have particular advantages that I will explore i
 ### I calculated my AOI what does it mean?
 
 | AOI Range | Category |
-|---|---|
-| 14- | Underweight |
-| 15-16 | Healthy/Lean |
-| 17-18 | Overweight |
-| 19-20 | Obesity Class 1 |
-| 21-22 | Obesity Class 2 |
-| 23+ | Obesity Class 3 |
+|---|:---:|
+| Underweight | <14 |
+| Normal | 14-17 |
+| Overweight | 17-18 |
+| Obese | >18 |
 
 ### Imperial Units
 $$ AOI=732.597578731\sqrt{\frac{W}{H^{3}}} $$\
