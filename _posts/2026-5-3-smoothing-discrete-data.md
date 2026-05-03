@@ -13,7 +13,7 @@ Weather it's precise scientific readings or noisy casual data I've found smoothi
 An Example of Discrete Epanechnikov smoothing applied to real world data.
 
 ## Motivation
-Now for kernel smoothing the best continuous kernel is the Epanechnikov kernel, A parabola with area 1 and bounds 
+Now for [kernel smoothing](https://en.wikipedia.org/wiki/Kernel_(statistics)) the best continuous kernel is the Epanechnikov kernel, A parabola with area 1 and bounds 
 {% comment %} 
 [-1,1]
 {% endcomment %}
@@ -37,7 +37,7 @@ Omitting the ends with 0, since they wont contribute to the kernel's weighted av
 | 7 | 12 | 15 | 16 | 15 | 12 | 7 |
 
 To normalize our kenel we will divide by 84, the sum of the components.\
-This can be easily calculated by [A000447](https://oeis.org/A000447).\
+This can be easily calculated by [A000447](https://oeis.org/A000447).
 
 $$ D=\frac{4n^{3}-n}{3} $$\
 Where D is the Denominator (is 84 above) and n is the size (4 for this example)
@@ -58,4 +58,4 @@ The one upside with this monstrocity is that it automatically normalizes it, eve
 And yes that countblank polynomial appoximation is really accurate, like to r<sup>2</sup>=0.999\
 And if you're here and reading this, Thank you.
 
-!(Beautiful Image)[https://i.pinimg.com/1200x/36/61/00/3661008c507fb4d9c8d033538128e66e.jpg]
+![Beautiful Image](https://pbs.twimg.com/media/Gs7s4m6aIAA3Mqs?format=jpg&name=large)
