@@ -6,9 +6,9 @@ date: 2026-05-03
 
 # Smoothing uniformly sampled data with the discrete Epanechnikov Kernel
 Often when dealing with data noise is a persistant issue that we have to contend with. 
-Weather it's precise scientific readings or noisy casual data I've found smoothing it to be useful.\
+Weather it's precise scientific readings or noisy casual data I've found smoothing it to be useful.
 
-![An Example of Discrete Epanechnikov smoothing in action](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/SmoothingExample.png)
+![An Example of Discrete Epanechnikov smoothing in action](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/SmoothingExample.png?raw=true)
 
 An Example of Discrete Epanechnikov smoothing applied to real world data.
 
@@ -27,17 +27,17 @@ This one is surprisingly simple. It's just a parabola so here's an example of a 
 Let's choose a size of 4, we will square it to 16.\
 The center of the kernel will be 16, 4<sup>2</sup>.\
 And as we travel outward we subtract the squares.\
-4<sup>2</sup>-0<sup>2</sup>/ = 16\
-4<sup>2</sup>-1<sup>2</sup>/ = 15\
-4<sup>2</sup>-2<sup>2</sup>/ = 12\
-4<sup>2</sup>-3<sup>2</sup>/ = 7\
-4<sup>2</sup>-4<sup>2</sup>/ = 0\
+4<sup>2</sup>-0<sup>2</sup> = 16\
+4<sup>2</sup>-1<sup>2</sup> = 15\
+4<sup>2</sup>-2<sup>2</sup> = 12\
+4<sup>2</sup>-3<sup>2</sup> = 7\
+4<sup>2</sup>-4<sup>2</sup> = 0\
 Omitting the ends with 0, since they wont contribute to the kernel's weighted average, this gives us the values:
 
 | 7 | 12 | 15 | 16 | 15 | 12 | 7 |
 
 To normalize our kenel we will divide by 84, the sum of the components.\
-This can be easily calculated by [A000447](https://oeis.org/A000447)\
+This can be easily calculated by [A000447](https://oeis.org/A000447).\
 
 $$ D=\frac{4n^{3}-n}{3} $$\
 Where D is the Denominator (is 84 above) and n is the size (4 for this example)
@@ -46,7 +46,7 @@ This gives us a final Kernel of appoximately:
 | 0.08333 | 0.14286 | 0.17857 | 0.19048 | 0.17857 | 0.14286 | 0.08333 |
 
 ## Python Implementation
-I have a custom sized smoothing kernel [here]().
+I have a custom sized smoothing kernel [here](https://github.com/Ethics-Mom/Epanechnikov-Kernel).
 a guide to using it is included in its README file.
 
 ## Excel Implementation
@@ -58,4 +58,4 @@ The one upside with this monstrocity is that it automatically normalizes it, eve
 And yes that countblank polynomial appoximation is really accurate, like to r<sup>2</sup>=0.999\
 And if you're here and reading this, Thank you.
 
-!(Beautiful Image)[https://pbs.twimg.com/media/Gs7s4m6aIAA3Mqs?format=jpg&name=large]
+!(Beautiful Image)[https://i.pinimg.com/1200x/36/61/00/3661008c507fb4d9c8d033538128e66e.jpg]
