@@ -21,7 +21,7 @@ The cool thing about them is they tend to describe a system in a very characteri
 For example, a plane wing which is moving through the air with a certain Reynolds number and Mach number behaves identically to a scaled down model as long as the Reynolds number and Mach number are the same.
 This makes those wind tunnel tests with a smaller version of said vehicle work.\
 By using a dimensionless quantity we can assure that height does not effect our results and that stature is measured correclty!
-(Looking at you BMI)\
+Since BMI is not independant from height it's not possible to survey the effect of bodily stature alone and studies that use BMI will have their data muddled because of it.\
 For our needs aspect ratio is the clear winner.
 Simply measuring the aspect ratio of someone's body would be difficult and with people being shaped differently from each other this proves to be a very rough path.
 Instead, I opt to continue using height and weight and calculate aspect ratio from there.
