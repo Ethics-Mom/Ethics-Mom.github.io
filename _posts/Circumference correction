@@ -1,0 +1,22 @@
+---
+layout: post
+title: Correcting Bodily Circumference Measurments
+date: 2026-05-09
+---
+
+# Correcting Bodily Circumference Measurments
+
+After height and weight, circumference is the next most readily available metric we can use to assess stature.
+The main issue with circumference is that on its own it cannot be easily compared between people.
+
+## Correcting For Height
+
+for the circumference of a specific body part: c<sub>i</sub> it can be corrected by simply dividing by Height.
+
+$$ \frac{c_i^2}{H} $$
+
+This allows different people to compare measurements and hopefully create a more solid basis to research health risks.
+
+## Long-Term Analysis
+
+INCLUDE PICTURE AND DERIVATION OF THIS PART
