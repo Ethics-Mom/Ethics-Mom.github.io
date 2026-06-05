@@ -4,7 +4,7 @@ title: The Five Drives of the Mind
 date: 2026-06-05
 ---
 
-# Psychological Drives: A basis for psychic motion
+# My System of Psychological Drives 
 
 ## Preface
 
