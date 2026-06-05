@@ -108,7 +108,7 @@ More technical and impressive songs feed into Techne, feeding the satisfaction o
 The Wuxing in Chinese alchemy is the five alchemical elements, which interact in constructive and destructive ways.
 I've found that the drives can act constructively or destructively and so I attempted to make a Psychological-Wuxing thing.
 
-![the Wuxing pentagon](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)#/media/File:Wuxing_diagram.svg)
+![the Wuxing pentagon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wuxing_diagram.svg/1920px-Wuxing_diagram.svg.png)
 
 Starting with the solidly known interactions one can quickly assign an order based on the constructive and destructive cycle.
 Then you need to align the two, so i chose Phobos-Water as water represents death and it connected well to fear.
