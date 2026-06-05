@@ -38,29 +38,35 @@ So I went and tried to make my own system through iteration, introspection, and 
 ## My Psychological Drives
 
 The Drives form the central force that drives decisions and emotions, While Phobos may represent fear per-se, it is not fear, It is the internal anima of the lizard brain, that part that expects and peers into the unknown.
-This applies to the other drives
-
-### Phobos (The Fear Drive)
-
-Phobos is the fight or flight response, anxiety, social anxiety, stress, As well as anticipation and excitement.
-It also drives the call of the void.
+This applies to the other drives.
+The following Drives are ordered from lowest to highest in terms of body to mind.
 
 ### Eros (The Bodily Drive)
 
-Eros is the bodily desires, hunger, sexual feelings, and entertainment. It is also the desire to do nothing and to stay asleep.
+Eros is the bodily desires, hunger, sexual feelings, and entertainment. It is also the desire to do nothing and to stay asleep.  
+At the core of Eros is the body and it's demands.
 
 ### Mania (The Hubris Drive)
 
 Mania is the aggressive drive, the desire for power, rage, power-tripping / mania, and power fantasy. It is also the driver of tribalist feelings of in-group and out-group.
-Additionally Mania can drive defensiveness in conversation, as well as principals "I am too good for this"
+Additionally Mania can drive defensiveness in conversation, as well as principals "I am too good for this".  
+The core of Mania is the Ego, its defense, and its exertion.
+
+### Phobos (The Fear Drive)
+
+Phobos is the fight or flight response, anxiety, social anxiety, stress, As well as anticipation and excitement.
+It also drives the call of the void.  
+At the core of Phobos is prediction of what is to come, and of possible futures, as well as the weight of the future.
 
 ### Techne (The Diligence Drive)
 
-Techne is the fulfillment drive, the drive to work, to solve problems, to order, to know and learn. It's the part satisfied by craftsmanship and skill, as well as the antsy side
+Techne is the fulfillment drive, the drive to work, to solve problems, to order, to know and learn. It's the part satisfied by craftsmanship and skill, as well as the antsy side.  
+At the core of Techne is the nervous energy to do things as human survival instinct to keep moving.
 
 ### Psyche (The Enlightenment Drive)
 
-Psyche is on one hand the introspective side that drives feelings around Identity and actualization, and on another hand the social part that empathizes, finds kinship, and romance.
+Psyche is on one hand the introspective side that drives feelings around Identity and actualization, and on another hand the social part that empathizes, finds kinship, and romance.  
+At the core of Psyche is the innermost mind, the point of view, and the sense of self.
 
 ## Interesting Other Points
 
@@ -124,7 +130,10 @@ The constructive and destructive cycles also fit well.
 
 ### As Fictional Godhead
 
-The psychological drives serve well to design deities as a manifestation of the collective or even world's drive [anima mundi link].
-Some notable examples I enjoy are: The Parade from Paprika as a manifestation of pure Eros (I argue that it's eros and not mania because of the destruction of self that occurs),
-The Flame of Frenzy from Elden Ring as a manifestation of Mania (taking the decision to end it all, even for others as an act of ultimate hubris),
-and The Holes from The Enigma of Amigara Fault as a manifestation of Phobos (while compelling like Techne, all of these examples strongly compel, and key to this is the call of the void and the fear of the unknown)
+The psychological drives serve well to design deities as a manifestation of the collective or even world's drive, [anima mundi](https://en.wikipedia.org/wiki/Anima_mundi).
+Many of the geatest deity-like forces in fiction are analyzed by one or multiple psychological drives.  
+Two notable examples of Eros-Mania Forces are the Parade from Paprika and the Flame of Frenzy from Elden Ring.  
+For the Parade, it is mainly eros through the ecstasy found in the loss of self but has minor elemends of Mania in the way it captivates people into putting their hope in it, joining it as a force, and joining with it to have a share in it's power and splendor.  
+The Flame of Frenzy from Elden Ring is primarily manifestation of Mania (taking the decision to end it all, even for others as an act of ultimate hubris), however the tiredness of the Eros, begging the mind and body to just give up is also a key point.
+and The Holes from The Enigma of Amigara Fault work well as a manifestation of Phobos, as the unknown it exhibits the call of the void and the intrusive desire to put oneself in danger, Though it also compels like the itch of Techne.  
+Granted all of these examples strongly compel as to make their place in their stories important.
