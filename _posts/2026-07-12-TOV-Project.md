@@ -77,20 +77,20 @@ This continues for all compositions to a specified resolution.
 Values were taken from NASA's Planetary fact sheets [4].  
 Internal state charts plotted for composition with the lowest error with 0% water, Because of this only the inner planets are plotted.  
 **Mercury**  
-![Mercury composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mercury%20Composition.png)
-![Mercury internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mercury%2068f32s00w%20Internals.png)
+![Mercury composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mercury%20Composition.png?raw=true)
+![Mercury internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mercury%2068f32s00w%20Internals.png?raw=true)
 Plotted values: 68% Fe, 32% Si  
 **Venus**  
-![Venus composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Venus%20Composition.png)
-![Venus internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Venus%2032f68s00w%20Internals.png)
+![Venus composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Venus%20Composition.png?raw=true)
+![Venus internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Venus%2032f68s00w%20Internals.png?raw=true)
 Plotted values: 32% Fe, 68% Si  
 **Earth**  
-![Earth composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Earth%20Composition.png)
-![Earth internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Earth%2032f68s00w%20Internals.png)
+![Earth composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Earth%20Composition.png?raw=true)
+![Earth internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Earth%2032f68s00w%20Internals.png?raw=true)
 Plotted values: 32% Fe, 68& Si  
 **Mars**  
-![Mars composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mars%20Composition.png)
-![Mars internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mars%2022f78s00w%20Internals.png)
+![Mars composition Ternary Diagram](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mars%20Composition.png?raw=true)
+![Mars internal values](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/Mars%2022f78s00w%20Internals.png?raw=true)
 Plotted values: 22% Fe, 32% Si  
 
 ### Exoplanets
@@ -107,7 +107,7 @@ This further narrowed it down to 112 exoplanets who both abided to the afforment
 Many of the planets removed in that final step were likely comprised in large part by water.
 The iron composition percentage was then compared to the parent star's metallicity.
 
-![The linear regression in question](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/ResultsGraph.png)
+![The linear regression in question](https://github.com/Ethics-Mom/Ethics-Mom.github.io/blob/main/Assets/ResultsGraph.png?raw=true)
 
 Linear regression reveals that iron composition increases 38% per 1 increase in parent star metallicity.
 Binning the stars every 0.1 metallicity and taking the average, in a historgram-like way reveals a clear trend as well.
